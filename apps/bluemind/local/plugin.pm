@@ -37,6 +37,7 @@ sub new {
         'hps'       => 'apps::bluemind::local::mode::hps',
         'ips'       => 'apps::bluemind::local::mode::ips',
         'lmtpd'     => 'apps::bluemind::local::mode::lmtpd',
+        'mapi'      => 'apps::bluemind::local::mode::mapi',
         'milter'    => 'apps::bluemind::local::mode::milter',
         'webserver' => 'apps::bluemind::local::mode::webserver',
         'xmpp'      => 'apps::bluemind::local::mode::xmpp'
